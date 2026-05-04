@@ -1,7 +1,7 @@
 {
   "name": "zotero-paper-search",
   "type": "module",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Zotero Plugin for Paper Search in Google Scholar",
   "config": {
     "addonName": "Paper Search",
