@@ -42,10 +42,10 @@
     "@eslint/js": "^9.27.0",
     "@types/node": "^22.15.19",
     "eslint": "^9.27.0",
-    "prettier": "^3.5.3",
+    "prettier": "^3.8.3",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.32.1",
-    "zotero-plugin-scaffold": "^0.6.0",
+    "typescript-eslint": "^8.59.2",
+    "zotero-plugin-scaffold": "^0.8.6",
     "zotero-types": "^4.0.1"
   },
   "prettier": {
