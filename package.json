@@ -1,8 +1,8 @@
 {
   "name": "zotero-paper-search",
   "type": "module",
-  "version": "0.2.2",
-  "description": "Zotero Plugin for Paper Search in Google Scholar",
+  "version": "0.2.3",
+  "description": "Zotero Plugin for Paper Search in Google Scholar and other academic databases, compatible with Zotero 7-10",
   "config": {
     "addonName": "Paper Search",
     "addonID": "papersearch@museovirtualnacional.com",
